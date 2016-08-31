@@ -3,7 +3,7 @@ title: "Introduction"
 teaching: 0
 exercises: 0
 questions:
-- "How to write a query""
+- "How to write a query"
 objectives:
 - "Write a query."
 keypoints:
